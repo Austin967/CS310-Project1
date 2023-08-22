@@ -7,5 +7,6 @@ I was the guide between what the client (our Professor) wanted and how the team 
 I did help write some of the code and test but was mostly acting as a team lead and scrum master and helped where I was needed.
 
 THE PROGRAM
+
 The program that was written so far had several steps along with custom-made tests to test if we had accounted for all variables.
 The program is designed to take any number of employees' time cards and log the times and hours they worked.
